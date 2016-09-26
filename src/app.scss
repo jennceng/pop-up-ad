@@ -1,0 +1,40 @@
+/* Your styling here */
+//still don't know how to use sass
+
+
+.callout.small {
+  background-color: #f22fc4;
+  color: #f6cd63;
+  border-radius: 20px;
+  border: 2px solid black;
+  padding: 30px;
+}
+
+input[type="email"] {
+  background-color: #f6cd63;
+
+}
+
+input[type="submit"] {
+  background-color: #11bec2;
+  color: #f22fc4;
+  border: 3px solid black;
+  box-shadow: 3px 3px 0px black;
+}
+
+input.button {
+  padding: 5px 30px;
+  font-size: large;
+}
+
+.submit-container {
+  padding-left: 2px;
+}
+
+.email-container {
+  padding-right: 2px;
+}
+
+.fa.fa-times {
+  color: #a41685;
+}
